@@ -6,7 +6,7 @@ class hello
        Scanner sc=new Scanner(System.in);
        while(true)
        {
-       System.out.println("ENTER NUMBER OF ROWS");
+       System.out.println("ENTER TOTAL NUMBER OF ROWS");
        int num=sc.nextInt();
        int k=0;
        for (int i = 1; i <= num; i++)
